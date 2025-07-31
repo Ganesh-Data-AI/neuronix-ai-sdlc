@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+groq
+requests
+pygithub
+plotly
+python-dotenv
